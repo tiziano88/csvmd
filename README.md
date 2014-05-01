@@ -18,5 +18,5 @@ Just pipe your csv file throug `csvmd`:
 ```
 
 ```
- % cat in.csv | csvmd > out.csv
+ % cat in.csv | csvmd > out.md
 ```
